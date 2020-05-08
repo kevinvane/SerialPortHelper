@@ -10,9 +10,9 @@ Android串口通讯助手可以用于需要使用串口通信的Android外设，
 
 ### 1、DEMO演示
 
-使用该库简单实现的串口调试助手工具，[APK下载](https://github.com/freyskill/SerialPortHelper/blob/master/SerialPortHelperV1.0.1.apk)
+使用该库简单实现的串口调试助手工具，[APK下载](./SerialPortHelperV1.0.1.apk)
 
-![image](https://github.com/freyskill/SerialPortHelper/blob/master/SerialPortHelper.png)
+![image](./SerialPortHelper.png)
 
 
 
